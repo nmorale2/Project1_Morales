@@ -1,0 +1,200 @@
+Processing block 1:
+  Block 1 is satisfiable with solution: [True, False, False, True]
+Processing block 2:
+  Block 2 is satisfiable with solution: [True, False, False, True]
+Processing block 3:
+  Block 3 is satisfiable with solution: [True, True, False, True]
+Processing block 4:
+  Block 4 is satisfiable with solution: [False, False, False, True]
+Processing block 5:
+  Block 5 is unsatisfiable
+Processing block 6:
+  Block 6 is satisfiable with solution: [True, True, True, False]
+Processing block 7:
+  Block 7 is unsatisfiable
+Processing block 8:
+  Block 8 is unsatisfiable
+Processing block 9:
+  Block 9 is satisfiable with solution: [False, False, True, True]
+Processing block 10:
+  Block 10 is satisfiable with solution: [False, False, False, True]
+Processing block 11:
+  Block 11 is unsatisfiable
+Processing block 12:
+  Block 12 is satisfiable with solution: [True, True, True, True, False, True, True, True]
+Processing block 13:
+  Block 13 is satisfiable with solution: [False, False, True, True, False, False, False, True]
+Processing block 14:
+  Block 14 is satisfiable with solution: [False, False, True, False, False, True, False, True]
+Processing block 15:
+  Block 15 is satisfiable with solution: [True, True, False, False, False, True, False, False]
+Processing block 16:
+  Block 16 is satisfiable with solution: [True, True, True, True, True, True, True, True]
+Processing block 17:
+  Block 17 is satisfiable with solution: [False, False, False, False, True, False, True, False]
+Processing block 18:
+  Block 18 is unsatisfiable
+Processing block 19:
+  Block 19 is satisfiable with solution: [False, True, False, True, False, False, False, False]
+Processing block 20:
+  Block 20 is unsatisfiable
+Processing block 21:
+  Block 21 is satisfiable with solution: [True, True, False, True, True, False, False, False, True, True, True, False]
+Processing block 22:
+  Block 22 is unsatisfiable
+Processing block 23:
+  Block 23 is unsatisfiable
+Processing block 24:
+  Block 24 is satisfiable with solution: [True, False, True, False, False, False, False, False, False, False, False, True]
+Processing block 25:
+  Block 25 is satisfiable with solution: [False, False, True, True, False, False, False, True, False, True, True, True]
+Processing block 26:
+  Block 26 is satisfiable with solution: [False, True, False, True, False, True, False, True, False, False, False, False]
+Processing block 27:
+  Block 27 is satisfiable with solution: [False, False, True, True, True, False, False, True, True, False, True, False]
+Processing block 28:
+  Block 28 is unsatisfiable
+Processing block 29:
+  Block 29 is unsatisfiable
+Processing block 30:
+  Block 30 is satisfiable with solution: [True, False, False, False, True, True, False, False, True, False, False, True]
+Processing block 31:
+  Block 31 is satisfiable with solution: [False, False, True, False, False, False, False, True, False, False, True, True, False, True, False, True]
+Processing block 32:
+  Block 32 is unsatisfiable
+Processing block 33:
+  Block 33 is unsatisfiable
+Processing block 34:
+  Block 34 is unsatisfiable
+Processing block 35:
+  Block 35 is satisfiable with solution: [False, False, False, True, True, False, False, True, True, True, True, False, True, True, True, False]
+Processing block 36:
+  Block 36 is unsatisfiable
+Processing block 37:
+  Block 37 is unsatisfiable
+Processing block 38:
+  Block 38 is unsatisfiable
+Processing block 39:
+  Block 39 is satisfiable with solution: [True, False, True, False, True, False, True, False, False, False, False, False, False, True, False, False]
+Processing block 40:
+  Block 40 is unsatisfiable
+Processing block 41:
+  Block 41 is unsatisfiable
+Processing block 42:
+  Block 42 is satisfiable with solution: [False, False, True, True, False, True, False, True, True, True, False, True, True, True, True, False, True, True]
+Processing block 43:
+  Block 43 is unsatisfiable
+Processing block 44:
+  Block 44 is satisfiable with solution: [False, True, False, True, True, False, True, False, True, False, False, True, False, False, False, False, True, True]
+Processing block 45:
+  Block 45 is unsatisfiable
+Processing block 46:
+  Block 46 is satisfiable with solution: [False, True, False, True, False, False, False, True, True, True, True, False, True, True, True, False, False, True]
+Processing block 47:
+  Block 47 is unsatisfiable
+Processing block 48:
+  Block 48 is satisfiable with solution: [True, True, False, False, True, True, False, True, False, False, True, True, True, True, True, True, False, False]
+Processing block 49:
+  Block 49 is satisfiable with solution: [True, False, False, False, True, True, True, True, False, False, False, False, False, False, True, True, True, True]
+Processing block 50:
+  Block 50 is satisfiable with solution: [True, False, True, True, False, False, False, False, False, False, False, False, False, True, False, False, False, True]
+Processing block 51:
+  Block 51 is satisfiable with solution: [False, False, False, True, False, True, False, True, False, False, False, False, True, False, False, True, True, False, True, False]
+Processing block 52:
+  Block 52 is satisfiable with solution: [True, True, False, True, False, False, False, True, False, True, True, True, True, True, False, False, False, False, True, False]
+Processing block 53:
+  Block 53 is satisfiable with solution: [False, False, False, False, True, True, True, False, False, True, True, True, True, True, False, True, True, True, True, False]
+Processing block 54:
+  Block 54 is satisfiable with solution: [False, False, False, False, True, False, False, True, False, False, False, False, False, False, False, False, True, True, False, False]
+Processing block 55:
+  Block 55 is unsatisfiable
+Processing block 56:
+  Block 56 is unsatisfiable
+Processing block 57:
+  Block 57 is unsatisfiable
+Processing block 58:
+  Block 58 is unsatisfiable
+Processing block 59:
+  Block 59 is satisfiable with solution: [True, True, False, True, True, True, False, True, True, False, False, False, False, False, True, False, True, False, False, True]
+Processing block 60:
+  Block 60 is satisfiable with solution: [True, False, False, False, False, True, True, False, True, True, True, False, True, False, False, False, True, False, True, False]
+Processing block 61:
+  Block 61 is satisfiable with solution: [False, False, True, False, False, False, True, False, True, False, False, False, False, False, True, False, True, True, False, True, False, True]
+Processing block 62:
+  Block 62 is unsatisfiable
+Processing block 63:
+  Block 63 is unsatisfiable
+Processing block 64:
+  Block 64 is satisfiable with solution: [False, False, False, False, True, True, True, False, False, False, False, False, True, False, True, False, True, True, True, False, True, True]
+Processing block 65:
+  Block 65 is satisfiable with solution: [False, False, True, True, True, False, False, False, False, False, False, True, False, False, True, True, False, True, True, True, True, True]
+Processing block 66:
+  Block 66 is satisfiable with solution: [False, False, False, False, True, False, True, False, True, False, False, False, True, False, True, True, False, False, True, False, False, True]
+Processing block 67:
+  Block 67 is satisfiable with solution: [False, False, False, False, False, True, True, True, True, True, True, False, True, False, False, False, False, False, True, True, True, False]
+Processing block 68:
+  Block 68 is unsatisfiable
+Processing block 69:
+  Block 69 is unsatisfiable
+Processing block 70:
+  Block 70 is unsatisfiable
+Processing block 71:
+  Block 71 is unsatisfiable
+Processing block 72:
+  Block 72 is unsatisfiable
+Processing block 73:
+  Block 73 is unsatisfiable
+Processing block 74:
+  Block 74 is satisfiable with solution: [True, True, False, False, False, True, True, True, False, True, False, True, False, True, False, False, True, False, True, False, False, False, True, False]
+Processing block 75:
+  Block 75 is unsatisfiable
+Processing block 76:
+  Block 76 is unsatisfiable
+Processing block 77:
+  Block 77 is unsatisfiable
+Processing block 78:
+  Block 78 is unsatisfiable
+Processing block 79:
+  Block 79 is unsatisfiable
+Processing block 80:
+  Block 80 is satisfiable with solution: [False, False, True, True, True, False, True, True, False, False, False, True, True, False, True, True, False, False, False, True, False, True, False, False]
+Processing block 81:
+  Block 81 is satisfiable with solution: [True, False, False, True, True, True, True, False, True, True, False, False, True, True, False, False, False, False, True, True, False, False, True, True, False, False]
+Processing block 82:
+  Block 82 is satisfiable with solution: [False, False, True, False, True, False, True, False, False, False, False, False, False, True, True, True, False, True, True, False, False, False, False, False, True, False]
+Processing block 83:
+  Block 83 is unsatisfiable
+Processing block 84:
+  Block 84 is satisfiable with solution: [True, True, False, True, False, False, True, True, False, False, False, False, True, True, False, True, True, True, True, False, False, False, True, True, True, False]
+Processing block 85:
+  Block 85 is unsatisfiable
+Processing block 86:
+  Block 86 is satisfiable with solution: [True, False, True, True, False, False, False, False, False, False, True, True, False, False, False, False, True, False, True, True, True, False, True, True, True, True]
+Processing block 87:
+  Block 87 is unsatisfiable
+Processing block 88:
+  Block 88 is unsatisfiable
+Processing block 89:
+  Block 89 is satisfiable with solution: [True, False, False, True, False, True, False, True, False, True, False, False, True, True, True, False, False, False, False, True, False, False, True, False, True, False]
+Processing block 90:
+  Block 90 is satisfiable with solution: [False, False, True, True, True, True, False, False, False, False, False, True, False, False, False, False, False, False, True, False, True, True, False, True, False, False]
+Processing block 91:
+  Block 91 is satisfiable with solution: [False, False, False, False, False, True, False, True, False, True, False, True, False, False, False, True, True, False, True, False, True, True, True, True, True, False, False, True]
+Processing block 92:
+  Block 92 is satisfiable with solution: [False, False, False, True, False, False, False, True, True, True, False, False, False, False, False, False, True, True, False, False, False, False, False, True, False, False, False, True]
+Processing block 93:
+  Block 93 is satisfiable with solution: [False, True, False, False, False, True, True, False, False, True, True, False, False, True, True, False, False, False, False, False, True, True, True, True, True, True, False, True]
+Processing block 94:
+  Block 94 is unsatisfiable
+Processing block 95:
+  Block 95 is unsatisfiable
+Processing block 96:
+  Block 96 is satisfiable with solution: [False, False, False, True, True, False, True, True, False, False, False, True, False, True, True, False, True, False, True, False, False, True, False, False, True, False, False, False]
+Processing block 97:
+  Block 97 is satisfiable with solution: [False, False, True, True, False, True, True, False, False, True, True, True, True, True, False, True, False, True, False, False, False, True, True, True, False, False, False, False]
+Processing block 98:
+  Block 98 is satisfiable with solution: [False, False, True, True, True, True, True, True, False, False, False, False, False, True, True, False, False, True, False, True, False, False, True, True, True, True, False, False]
+Processing block 99:
+  Block 99 is satisfiable with solution: [True, False, True, False, False, False, False, False, True, True, True, False, False, False, False, False, True, True, True, False, True, False, True, False, True, False, True, True]
+Processing block 100:
+  Block 100 is satisfiable with solution: [False, True, True, False, True, False, True, False, False, False, False, False, True, False, False, False, False, False, True, True, True, True, True, False, False, False, False, True]
